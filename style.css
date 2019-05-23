@@ -1,0 +1,413 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.favicon{
+	height: 16px;
+	width: 16px;
+}
+.feedback{
+	position: fixed;
+	left: 1482px;
+	top: 280px;
+	z-index: 2;
+}
+.captcha{
+	position: fixed;
+	left: 1440px;
+	top: 685px;
+	z-index: 2;
+}
+
+
+
+
+.tm-container{
+	position: relative;
+	max-width: 1000px;
+	margin: 0 auto;
+	margin-top: 35px;
+
+
+
+}
+.logo2{
+	position: relative;
+	top: 40px;
+	left: 15px;
+	display: block;
+
+}
+.logo3{
+	position: relative;
+	top: 60px;
+	left: 15px;
+	display: block;
+
+}
+.logo4{
+	position: relative;
+	left: 750px;
+	bottom: 0px;
+	display: block;
+
+}
+.login{
+	background: #d83230;
+	height: 365px;
+	position: relative;
+}
+.p1{
+    position: relative;
+    left: 270px;
+    top: 0px;
+
+}
+.p2{
+	position: relative;
+    left: 127px;
+    top: 40px;
+}
+.logbox{
+	background: #ad2826;
+	height: 240px;
+	position: relative;
+	top: 45px;
+	left: 270px;
+	right: 955px;
+	width: 310px;
+}
+.p3{
+	background: white;
+	height: 18.4px;
+	width: 264px;
+	top: 15px;
+	left: 15px;
+    font-size: 14px;
+	position: relative;
+	font-family: Arial,sans-serif;
+	color:#3a3a3a;
+	padding: 8px;
+
+}
+.p4{
+	background: white;
+	height: 18.4px;
+	width: 264px;
+	position: relative;
+	top: 28px;
+	left: 15px;
+	font-size: 14px;
+	font-family: Arial,sans-serif;
+	color:#3a3a3a;
+	padding: 8px;
+
+
+}
+.p5{
+	background: white;
+	height: 22px;
+	width: 22px;
+	position: relative;
+	top: 80px;
+	right: 272px;
+	border: 1px solid #b4b4b4;
+}
+.p6{
+	position: relative;
+	top: 40px;
+	left: 45px;
+	color: white;
+	font-family: Arial,sans-serif;
+	font-size: 12px;
+
+}
+.p7{
+	position: relative;
+	background: #f88000;
+	height: 32px;
+	width: 280px; 
+	top: 55px;
+	left: 15px;
+    font-family: BrandonText-Bold,Arial,sans-serif;
+    font-weight: bold;
+	color: white;
+	text-align: center;
+	padding-bottom: 3px;
+	font-size: 18px;
+	border: 0px;
+	display: block;
+	padding-top: 13px;
+
+
+}
+.p7:hover{
+	background: #BF8003;
+}
+.p8{
+	position: relative;
+	top: 65px;
+	left: 15px;
+	color: white;
+}
+.teacherbox{
+	position: relative;
+	background:#ad2826;
+	height: 187px;
+	width: 325px; 
+	bottom: 140px;
+	left: 595px;
+}
+.parentbox{
+	position: relative;
+	background:#ad2826;
+	height: 187px;
+	width: 325px;
+	left: 935px;
+	bottom: 327px;
+
+}
+.p9{
+	position: relative;
+	height: 20px;
+	width: 325px;
+	text-align: center;
+	top: 50px;
+	font: bold;
+	color: white;
+	font-family: BrandonText-Medium,Arial,sans-serif;
+	font-size: 24px;
+
+	
+}
+.p10{
+	position: relative;
+	height: 36px;
+	width: 273px;
+	text-align: center;
+	font-size: 18px;
+	background: #3FB0EB;
+	font-family: BrandonText-Bold,Arial,sans-serif;
+    font-weight: bold;
+	color: white;
+	top: 80px;
+	left: 26px;
+	padding-top: 15px;
+	display: block;
+	
+
+}
+.p10:hover{
+	background: #0098c8;
+}
+.p11{
+	position: relative;
+	height: 36px;
+	width: 273px;
+	text-align: center;
+	font-size: 18px;
+	background: #f88000;
+	font-family: BrandonText-Bold,Arial,sans-serif;
+    font-weight: bold;
+	color: white;
+	top: 80px;
+	left: 26px;
+	padding-top: 15px;
+	display: block;
+	
+
+}
+.p11:hover{
+	background: #BF8003;
+}
+.f1{
+	position: relative;
+	left: 475px;
+	top: 85px;
+    color: white;
+	
+}
+.line{
+	position: relative;
+	height:1px;
+	width: 150px;
+	background: white;
+	bottom:  170px;
+	left:  595px;
+}
+.line2{
+	position: relative;
+	height:1px;
+	width: 165px;
+	background: white;
+	bottom:  172px;
+	left:  1090px;
+
+}
+.videobar{
+	background: #3abaac;
+	height: 432px;
+	position: relative;
+	top: 2.5px;
+	background-image: url('images/background.jpg');
+	background-size: cover;
+	
+
+}
+.video-head{
+	position: relative;
+    font-family: BrandonText-Regular, Arial, sans-serif;
+	color: #fff;
+    font-size: 40px;
+    text-align: center;
+    top: 25px;
+
+}
+.h2-title {
+    color: #d83230;
+    text-align: center;
+    margin-top: 45px;
+    font-size: 36px;
+    font-family: BrandonText-Medium,Arial,sans-serif;
+    font-weight: 100;
+}
+.img-container{
+	margin-top: 30px;
+	height: 335px;
+}
+.border-num{
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	color: #D73131;
+	font-weight: bold;
+	position: relative;
+	bottom: 13px;
+	left: 100px;
+}
+.img-1{
+	width: 225px;
+	position: relative;
+	left: 270px;
+}
+.img-2{
+	width: 225px;
+	position: relative;
+	bottom: 279px;
+	left: 520px;
+}
+.img-3{
+	width: 225px;
+	position: relative;
+	bottom: 539px;
+	left: 770px;
+
+}
+.img-4{
+	width: 225px;
+	position: relative;
+	bottom: 817px;
+	left: 1025px;
+}
+.get-started{
+	height: 490px;
+	background: #F4F1EA;
+}
+.scroll{
+	overflow-y:auto; 
+}
+.exc-teachers{
+	color: #d83230;
+    font-weight: normal;
+    font-size: 36px;
+    font-family: BrandonText-Regular, Arial, sans-serif;
+    margin-top: 42px;
+    margin-bottom: 22px;
+    text-align: center;
+
+}
+.section1{
+	height: 70px;
+	width: 248px;
+	text-align: center;
+	left:265px;
+	position: relative;
+	border-left: 1px solid #d83230;
+	border-right: 1px solid #d83230;
+
+}
+.section2{
+	height: 70px;
+	width: 248px;
+	text-align: center;
+	position: relative;
+	bottom: 70px;
+	left: 513px;
+	border-right:1px solid #d83230; 
+}
+.section3{
+	height: 70px;
+	width: 248px;
+	text-align: center;
+	position: relative;
+	bottom: 140px;
+	left: 761px;
+	border-right:1px solid #d83230; 
+}
+.section4{
+	height: 70px;
+	width: 248px;
+	text-align: center;
+	position: relative;
+	bottom: 210px;
+	left: 1009px;
+	border-right:1px solid #d83230; 
+}
+.get-reading{
+	height: 215px;
+	background: #F4F1EA;
+}
+.get-teacher{
+	width: 500px;
+	position: relative;
+	top: 25px;
+	left: 265px;
+}
+.get-parent{
+	width: 500px;
+	position: relative;
+	bottom: 71px;
+	left: 780px;
+
+}
+.footer{
+	height: 175px;
+
+}
+.footer div a:hover{
+    color: #f28005;
+}
+.p10 a:hover{
+    background-color: #f88000;
+}
+.foot a:hover{
+	color: yellow; 
+}
+.footer-menu ul li{
+	display: inline;
+	color: black;
+	font-size: 12px;
+	margin-bottom: 30px;
+}
+.footer-menu ul li a:hover{
+    color: #f28005; 
+}
+.link:hover{
+	color: yellow;
+}
+.link{
+	color: black;
+}
+
+
+	
+
